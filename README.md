@@ -1,11 +1,7 @@
 Website Qodr
 ============
 
-<<<<<<< HEAD
-
-=======
 hallo nama saya Malik
->>>>>>> register
 
 aku adalah seorang trainer
 
