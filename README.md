@@ -1,7 +1,11 @@
 Website Qodr
 ============
 
-hallo nama saya ferdaian
+<<<<<<< HEAD
+
+=======
+hallo nama saya Malik
+>>>>>>> register
 
 aku adalah seorang trainer
 
