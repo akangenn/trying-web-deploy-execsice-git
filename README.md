@@ -1,6 +1,8 @@
 Website Qodr
 ============
 
-hallo nama saya ferdian
+hallo nama saya ferdaian
 
-saya seorang trainer
+aku adalah seorang trainer
+
+ini berubaha di barach master
