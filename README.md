@@ -1,6 +1,6 @@
 Website Qodr
 ============
 
-hallo nama saya ferdian
+hallo nama saya Malik
 
 saya seorang trainer
